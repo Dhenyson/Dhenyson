@@ -1,5 +1,5 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between">
-    <a href="">
+    <a href="" class="badge">
         <img alt="" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     </a>
     <a href="">
@@ -59,4 +59,17 @@
 </div>
 </div>
 
+<style>
+    .badge {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
 
+    .badge:hover {
+        transform: scale(1.1);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    .badge:active {
+        transform: scale(0.95);
+    }
+</style>
