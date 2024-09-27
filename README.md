@@ -43,22 +43,6 @@
     </a>
 </div>
 
-<hr />
-<!-- 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 10px;">
-
-<div style="margin: 10px;">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhenyson&show_icons=true&theme=radical)
-</div>
-
-<div style="margin: 10px">
-<p>Data only in public repositories</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhenyson&layout=compact)](https://github.com/Dhenyson/github-readme-stats)
-</div>
-</div> -->
-
 <style>
     .badge {
         transition-duration: 0.3s;
@@ -75,3 +59,19 @@
         filter: brightness(0.5);
     }
 </style>
+
+<hr />
+<!-- 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 10px;">
+
+<div style="margin: 10px;">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhenyson&show_icons=true&theme=radical)
+</div>
+
+<div style="margin: 10px">
+<p>Data only in public repositories</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhenyson&layout=compact)](https://github.com/Dhenyson/github-readme-stats)
+</div>
+</div> -->
