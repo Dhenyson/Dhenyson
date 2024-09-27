@@ -53,6 +53,7 @@
 </div>
 
 <div style="margin: 10px">
+<p>Data only in public repositories</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhenyson&layout=compact)](https://github.com/Dhenyson/github-readme-stats)
 </div>
