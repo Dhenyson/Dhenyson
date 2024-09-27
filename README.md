@@ -43,7 +43,7 @@
     </a>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 20px;">
 <div style="margin: 10px">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhenyson&show_icons=true&theme=radical)
