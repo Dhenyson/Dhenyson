@@ -1,5 +1,8 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between">
     <a href="">
+        <img alt="" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+    </a>
+    <a href="">
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     </a>
     <a href="">
@@ -40,6 +43,16 @@
     </a>
 </div>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 10px;">
+<div style="margin: 10px">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhenyson&show_icons=true&theme=radical)
+</div>
+
+<div style="margin: 10px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhenyson&layout=compact)](https://github.com/Dhenyson/github-readme-stats)
+</div>
+</div>
+
+
