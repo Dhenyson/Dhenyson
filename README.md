@@ -44,7 +44,7 @@
 </div>
 
 <hr />
-
+<!-- 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 10px;">
 
 <div style="margin: 10px;">
@@ -57,7 +57,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhenyson&layout=compact)](https://github.com/Dhenyson/github-readme-stats)
 </div>
-</div>
+</div> -->
 
 <style>
     .badge {
