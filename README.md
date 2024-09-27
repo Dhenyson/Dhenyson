@@ -43,25 +43,10 @@
     </a>
 </div>
 
-<style>
-    .badge {
-        transition-duration: 0.3s;
-    }
-
-    .badge:hover {
-        transform: scale(1.12);
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        filter: brightness(1.2);
-    }
-
-    .badge:active {
-        transform: scale(0.95);
-        filter: brightness(0.5);
-    }
-</style>
+<!-- 
 
 <hr />
-<!-- 
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 10px;">
 
 <div style="margin: 10px;">
