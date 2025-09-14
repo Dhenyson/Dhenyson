@@ -1,5 +1,20 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between">
     <a href="" class="badge">
+      <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-5e5e5e?style=for-the-badge&logo=openai&logoColor=white"/>
+    </a>
+    <a href="" class="badge">
+      <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1a202c?style=for-the-badge&logo=langchain&logoColor=white"/>
+    </a>
+    <a href="" class="badge">
+      <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=fff"/>
+    </a>
+    <a href="" class="badge">
+      <img alt="LLM" src="https://img.shields.io/badge/LLM-Large_Language_Model-blueviolet?style=for-the-badge"/>
+    </a>
+    <a href="" class="badge">
+      <img alt="RAG" src="https://img.shields.io/badge/Retrieval_Augmented_Generation-RAG-228B22?style=for-the-badge"/>
+    </a>
+    <a href="" class="badge">
         <img alt="" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     </a>
     <a href="" class="badge">
