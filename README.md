@@ -1,4 +1,4 @@
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between">
     <a href="" class="badge">
       <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-5e5e5e?style=for-the-badge&logo=openai&logoColor=white"/>
     </a>
