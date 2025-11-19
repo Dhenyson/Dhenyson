@@ -1,5 +1,5 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between">
-  <a href="https://dhenyson.com" class="badge" target="_blank">
+  <a href="https://dhenyson.com" class="badge" target="_blank" rel="noopener noreferrer">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-5e5e5e?style=for-the-badge&logo=openai&logoColor=white"/>
     <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1a202c?style=for-the-badge&logo=langchain&logoColor=white"/>
